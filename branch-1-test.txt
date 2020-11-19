@@ -1,2 +1,3 @@
 pierwsza zmiana nowy branch
 zmiana w branch-conflict
+zmiana dodana w branch-conflict2
